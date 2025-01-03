@@ -18,7 +18,7 @@ Le machine learning, en particulier, me fascine profondément, et son applicatio
 - **Technologies :** Python, pandas, matplotlib.
 
 ### **Sigma Capital**
-- **Description :** Sigma Capital est un projet ambitieux visant à développer une stratégie de trading robuste et optimisée pour les marchés financiers volatils comme le **S&P 500** et le **Forex**.
+- **Description :** Sigma Capital est un projet visant à développer une stratégie de trading robuste et optimisée pour les marchés financiers volatils comme le **S&P 500** et le **Forex**.
   Le projet s'appuie sur une roadmap structurée alignée avec les compétences clés du métier de Quant (mathématiques, programmation, finance quantitative, économétrie). Il inclut des étapes de collecte et nettoyage des données, analyse exploratoire, développement de modèles mathématiques avancés (comme l'ACP et la cointégration), et intégration progressive de techniques de machine learning pour affiner les prédictions et la gestion des risques. La progression est documentée pour assurer une reproductibilité optimale.
 - **Technologies :** Python (NumPy, pandas, scikit-learn), Jupyter Notebook.
 
@@ -33,7 +33,7 @@ Le machine learning, en particulier, me fascine profondément, et son applicatio
 ### **Technow (2024)**
 - **Description :** Site e-commerce fictif avec sessions utilisateurs, panier, et paiement Stripe. Une messagerie a été intégrée pour permettre aux utilisateurs connectés de communiquer en temps réel sur un chat. Pour gérer les messages offensants, deux méthodes complémentaires ont été utilisées :
   - **TF-IDF :** Identification des mots et expressions potentiellement offensants à partir d'une analyse textuelle pondérée.
-  - **Serveur Flask :** Gestion des cas complexes impliquant des négations, en exploitant un modèle avancé pour une meilleure contextualisation.
+  - **Serveur Flask :** Gestion des cas complexes impliquant des négations, en exploitant un modèle avancé pour une meilleure contextualisation. Première démarche incluant le machine Learning
 - **Technologies :** PHP, HTML/CSS, JavaScript, Python (Flask).
 
 ### **Projet Python (2024)**
