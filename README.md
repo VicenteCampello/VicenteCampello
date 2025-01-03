@@ -2,7 +2,8 @@
 
 Étudiant en **Mathématiques et Informatique (MIASHS)**, je me spécialise en économie et analyse de données. Restant à Montpellier, je vais enfin pouvoir me focaliser pleinement sur mes projets ambitieux en data et finance.
 
-Passionné par les défis intellectuels que représente le métier de Quant, j'apprécie particulièrement l'application des mathématiques avancées, de la programmation et des modèles financiers pour résoudre des problématiques complexes. Le machine learning, en particulier, me fascine profondément, et son application au monde de la finance représente pour moi bien plus qu'une simple compétence : c'est une voie pour transformer des idées complexes en solutions concrètes et novatrices. Mon objectif est de repousser les limites technologiques et théoriques pour exceller dans ce domaine.
+J'apprécie particulièrement l'application des mathématiques avancées, de la programmation et des modèles financiers pour résoudre des problématiques complexes. 
+Le machine learning, en particulier, me fascine profondément, et son application au monde de la finance représente pour moi bien plus qu'une simple compétence : c'est une voie pour transformer des idées complexes en solutions concrètes et novatrices. Mon objectif est de repousser les limites technologiques et théoriques pour exceller dans ce domaine.
 
 ---
 
@@ -17,7 +18,8 @@ Passionné par les défis intellectuels que représente le métier de Quant, j'a
 - **Technologies :** Python, pandas, matplotlib.
 
 ### **Sigma Capital**
-- **Description :** Sigma Capital est un projet ambitieux visant à développer une stratégie de trading robuste et optimisée pour les marchés financiers volatils comme le **S&P 500** et le **Forex**. Le projet s'appuie sur une roadmap structurée alignée avec les compétences clés du métier de Quant (mathématiques, programmation, finance quantitative, économétrie). Il inclut des étapes de collecte et nettoyage des données, analyse exploratoire, développement de modèles mathématiques avancés (comme l'ACP et la cointégration), et intégration progressive de techniques de machine learning pour affiner les prédictions et la gestion des risques. La progression est documentée pour assurer une reproductibilité optimale.
+- **Description :** Sigma Capital est un projet ambitieux visant à développer une stratégie de trading robuste et optimisée pour les marchés financiers volatils comme le **S&P 500** et le **Forex**.
+  Le projet s'appuie sur une roadmap structurée alignée avec les compétences clés du métier de Quant (mathématiques, programmation, finance quantitative, économétrie). Il inclut des étapes de collecte et nettoyage des données, analyse exploratoire, développement de modèles mathématiques avancés (comme l'ACP et la cointégration), et intégration progressive de techniques de machine learning pour affiner les prédictions et la gestion des risques. La progression est documentée pour assurer une reproductibilité optimale.
 - **Technologies :** Python (NumPy, pandas, scikit-learn), Jupyter Notebook.
 
 ---
