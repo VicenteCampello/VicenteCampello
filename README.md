@@ -19,7 +19,6 @@ Le machine learning, en particulier, me fascine profondément, et son applicatio
 
 ### **Sigma Capital**
 - **Description :** Sigma Capital est un projet visant à développer une stratégie de trading robuste et optimisée pour les marchés financiers volatils comme le **S&P 500** et le **Forex**.
-  Le projet s'appuie sur une roadmap structurée alignée avec les compétences clés du métier de Quant (mathématiques, programmation, finance quantitative, économétrie). Il inclut des étapes de collecte et nettoyage des données, analyse exploratoire, développement de modèles mathématiques avancés (comme l'ACP et la cointégration), et intégration progressive de techniques de machine learning pour affiner les prédictions et la gestion des risques. La progression est documentée pour assurer une reproductibilité optimale.
 - **Technologies :** Python (NumPy, pandas, scikit-learn), Jupyter Notebook.
 
 ---
