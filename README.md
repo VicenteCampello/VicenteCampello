@@ -3,7 +3,7 @@
 Étudiant en **Mathématiques et Informatique (MIASHS)**, je me spécialise en économie et analyse de données. Restant à Montpellier, je vais enfin pouvoir me focaliser pleinement sur mes projets ambitieux en data et finance.
 
 J'apprécie particulièrement l'application des mathématiques avancées, de la programmation et des modèles financiers pour résoudre des problématiques complexes. 
-Le machine learning, en particulier, me fascine profondément, et son application au monde de la finance représente pour moi bien plus qu'une simple compétence : c'est une voie pour transformer des idées complexes en solutions concrètes et novatrices. Mon objectif est de repousser les limites technologiques et théoriques pour exceller dans ce domaine.
+Le machine learning, en particulier, me fascine profondément, et son application au monde de la finance représente pour moi bien plus qu'une simple compétence : c'est une voie pour transformer des idées complexes en solutions concrètes et novatrices.
 
 ---
 
